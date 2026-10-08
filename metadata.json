@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Rewards",
+  "description": "Portal oficial de recompensas, skins, diamantes y canje para Free Fire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
